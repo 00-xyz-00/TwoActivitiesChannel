@@ -1,0 +1,2 @@
+rootProject.name='TwoActivitiesChannel'
+include ':app'

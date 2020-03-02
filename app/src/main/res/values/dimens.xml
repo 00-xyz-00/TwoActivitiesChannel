@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="message_edit_main_width">314dp</dimen>
+    <dimen name="message_edit_main_height">52dp</dimen>
+    <dimen name="profile_width">88dp</dimen>
+    <dimen name="profile_height">87dp</dimen>
+    <dimen name="profile_marginEnd">12dp</dimen>
+    <dimen name="profile_marginRight">12dp</dimen>
+    <dimen name="profile_marginBottom">16dp</dimen>
+</resources>

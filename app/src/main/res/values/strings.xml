@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TwoActivitiesChannel</string>
+    <string name="message_edit_main">Enter main message..</string>
+    <string name="message_edit_second">Enter secondary message..</string>
+</resources>
